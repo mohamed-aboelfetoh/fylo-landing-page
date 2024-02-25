@@ -39,7 +39,7 @@ nav .links li a{
     padding-left: 20px;
 }
 
-@media (min-width:375px) and (max-width:1000px){
+@media (max-width:991px){
     .container {
         margin-left: 0px; 
         margin-right: 0px; 
@@ -131,7 +131,7 @@ section .container .image img{
     height: 100%;
 }
 
-@media (min-width:375px) and (max-width:1000px){
+@media (max-width:991px){
 
 section .container {
     height: auto;
@@ -286,7 +286,7 @@ section .container .image2 img{
     height: 80%;
 }
 
-@media (min-width:375px) and (max-width:1000px){
+@media (max-width:991px){
     section:nth-of-type(2){
         height: auto;
     }
@@ -401,7 +401,7 @@ section:nth-of-type(3) .container form{
 
 
 
-@media (min-width:375px) and (max-width:1000px){
+@media (max-width:991px){
     section:nth-of-type(3) .container {
         flex-direction: column;
     }
@@ -499,7 +499,7 @@ footer .container ul:last-of-type li{
     margin-left: 15px;
 }
 
-@media (min-width:375px) and (max-width:1000px){
+@media (max-width:991px){
     footer .container {
         flex-direction: column;
     }
